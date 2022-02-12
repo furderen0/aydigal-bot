@@ -332,4 +332,4 @@ async def kutuac(ctx):
 
 
 
-client.run("OTMyNzE0OTQxMDQ2MjE0Njg2.YeXAeg.sIfNqmm1uWtvwpt8beEd7VXUJpM")
+client.run(token)
